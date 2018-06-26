@@ -22,6 +22,7 @@
         android:layout_below="@+id/tvDeepLink"
         app:trimMode="trimModeLength"
         app:trimLength="20"
+        android:textSize="20dp"
         app:trimExpandedText="Read More"
         app:trimCollapsedText="Show Less"
         android:text="ABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHIJKLMNOPQRSTUVWXYZ"/>
